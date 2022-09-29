@@ -5,14 +5,12 @@ Based on you and your interests, what pc video game(s) should you play?!
 
 
 ### Not so much for warfare, but want to enjoy a first person hero shooter?
-Try VALORANT! 
+Try VALORANT! [Download Link](http://playvalorant.com/)
 - Free-to-play
 - A fast paced multiplayer first person hero shooter!
 -  5v5 tactical bomb defusal 
 - 8 Different Maps to play!
 - 18 Unique agents for you to play each with their own unique abilities!
-------------------------------------------------
-[Download Link](http://playvalorant.com/)
 <img src="vlaornat.jpg" width="600" height="270">
 
 ### Into team-based shooter games? 
