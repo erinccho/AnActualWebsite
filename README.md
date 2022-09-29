@@ -11,6 +11,7 @@ Try VALORANT!
 -  5v5 tactical bomb defusal 
 - 8 Different Maps to play!
 - 18 Unique agents for you to play each with their own unique abilities!
+------------------------------------------------
 [Download Link](http://playvalorant.com/)
 <img src="vlaornat.jpg" width="600" height="270">
 
