@@ -11,7 +11,7 @@ Try VALORANT!
 -  5v5 tactical bomb defusal 
 - 8 Different Maps to play!
 - 18 Unique agents for you to play each with their own unique abilities!
-<img src="vlaornat.jpg" width="300" height="100">
+<img src="vlaornat.jpg" width="600" height="270">
 
 ### Into team-based shooter games? 
 Try CSGO! 
